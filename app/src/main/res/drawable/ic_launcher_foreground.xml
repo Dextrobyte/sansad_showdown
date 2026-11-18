@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fighting (boxing) glove, kept inside the 66dp adaptive-icon safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="20">
+        <!-- fist -->
+        <path
+            android:fillColor="#E53935"
+            android:pathData="M38,64 C32,52 34,36 46,32 C52,28 66,28 72,36 C78,44 76,58 70,64 Z" />
+        <!-- fist shading -->
+        <path
+            android:fillAlpha="0.55"
+            android:fillColor="#B71C1C"
+            android:pathData="M70,64 C76,58 78,44 72,36 C74,46 72,56 62,64 Z" />
+        <!-- cuff -->
+        <path
+            android:fillColor="#F5E6D0"
+            android:pathData="M39,64 H71 L70,77 Q70,79 68,79 H42 Q40,79 40,77 Z" />
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M39,64 H71 V68 H39 Z" />
+        <path
+            android:pathData="M45,73 H65"
+            android:strokeColor="#C9B79C"
+            android:strokeLineCap="round"
+            android:strokeWidth="1.5" />
+        <!-- thumb -->
+        <path
+            android:fillColor="#C62828"
+            android:pathData="M41,50 C32,48 28,57 33,62 C37,66 44,63 47,58 Z"
+            android:strokeColor="#7F0000"
+            android:strokeLineJoin="round"
+            android:strokeWidth="1" />
+        <!-- highlight -->
+        <path
+            android:pathData="M54,34 C60,33 66,36 68,41"
+            android:strokeAlpha="0.55"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeWidth="2.5" />
+    </group>
+</vector>

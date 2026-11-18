@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sansad Showdown</string>
+    <string name="credit_toast">game by Shivam Builds app developed by Rishabh Singh</string>
+    <string name="exit_hint">Press back again to exit</string>
+    <string name="offline_title">No connection</string>
+    <string name="offline_message">Check your internet and try again.</string>
+    <string name="retry">Retry</string>
+</resources>
